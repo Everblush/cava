@@ -66,7 +66,7 @@ background = '#141b1e'
 # Gradient mode, only hex defined colors (and thereby ncurses mode) are supported,
 gradient = 1
 gradient_count = 3
-gradient_color_1 = '#e06e6e'
+gradient_color_1 = '#e57474'
 gradient_color_2 = '#e5c76b'
 gradient_color_3 = '#8ccf7e'
 
