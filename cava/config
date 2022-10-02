@@ -60,7 +60,7 @@ bar_spacing = 0
 
 [color]
 
-; background = default
+background = '#141b1e'
 ; foreground = default
 
 # Gradient mode, only hex defined colors (and thereby ncurses mode) are supported,
