@@ -17,9 +17,9 @@
 
 
 # Installation 
-```sh 
+```
 git clone https://github.com/Everblush/cava
-cd gtk
-npm install -g scss
-sudo make install
+cd cava
+mkdir -p ~/.config
+cp -r cava ~/.config
 ```
