@@ -4,7 +4,7 @@
 
 <h2 align="center">Everblush Cava Colorscheme</h2>
 <p>
-<h4 align="center" <i>Everblush Colorscheme for Cava/i></h4>
+<h4 align="center" <i>Everblush Colorscheme for Cava</i></h4>
 </p>
 
  jp align="center">
