@@ -7,7 +7,7 @@
 <h4 align="center" <i>Everblush Colorscheme for Cava</i></h4>
 </p>
 
- jp align="center">
+<jp align="center">
 <img src="https://img.shields.io/github/stars/Everblush/cava?color=e5c76b&labelColor=22292b&style=for-the-badge">
 <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=22292b&style=for-the-badge">
 <img src="https://img.shields.io/github/forks/Everblush/cava?color=e74c4c&labelColor=1b2224&style=for-the-badge">
