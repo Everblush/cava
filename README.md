@@ -1,5 +1,6 @@
 <div align="center">
-[https://raw.githubusercontent.com/Everblush/cava/assets/logo.png](https://github.com/Everblush/assets/blob/main/logo.png?raw=true)"
+<img src="https://github.com/Everblush/assets/blob/main/logo.png?raw=true" height="200px" width="200px">
+</div>
 
 <h2 align="center">Everblush Cava Colorscheme</h2>
 <p>
