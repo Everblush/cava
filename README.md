@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/github/forks/Everblush/cava?color=e74c4c&labelColor=1b2224&style=for-the-badge">
 </p>
 
-The Everblush Colorscheme for Cava
 
 ## Screenshots
 
